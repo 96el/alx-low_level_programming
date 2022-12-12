@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -Entry point
+ * main - Entry point
  * Return: Always 0 (success)
  */
 int main(void)
@@ -15,8 +15,8 @@ int main(void)
 			putchar (num + '0');
 		} else
 		{
-			putchar(c)
-				c++;
+			putchar(c);
+			c++;
 		}
 	}
 	putchar('\n');
